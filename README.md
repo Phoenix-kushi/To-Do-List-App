@@ -19,4 +19,5 @@ This project helps users organize tasks efficiently with features like adding, e
 1. Clone the repository:
      git clone https://github.com/Phoenix-kushi/To-Do-List-App.git
 
-     
+# Screenshots
+https://github.com/Phoenix-kushi/To-Do-List-App/tree/89d30d02eacca3104b9626d2d5fdcdd2a6e8998b/Screenshots
